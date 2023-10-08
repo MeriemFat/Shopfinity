@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wheat">#F5E0B7</color>
+    <color name="lapis">#22577A</color>
+    <color name="sky">#56CBF9</color>
+    <color name="maya">#7FBEEB</color>
+    <color name="emerald">#00CC66</color>
+    <color name="black">#252525</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
