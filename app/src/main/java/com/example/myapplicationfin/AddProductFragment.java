@@ -10,7 +10,7 @@ import androidx.fragment.app.Fragment;
 import tn.esprit.myapplication.R;
 
 
-public class activity_product extends Fragment {
+public class AddProductFragment extends Fragment {
 
 
     @Override

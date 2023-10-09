@@ -36,6 +36,12 @@
             android:name="com.example.myapplicationfin.activity_recover_password"
             android:exported="false" >
         </activity>
+        <activity
+            android:name="com.example.myapplicationfin.Welcome"
+            android:exported="false" > 
+        </activity>
+
+
     </application>
 
 </manifest>
