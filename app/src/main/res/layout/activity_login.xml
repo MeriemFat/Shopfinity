@@ -9,7 +9,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleType="centerCrop"
-        android:src="@tools:sample/avatars"
+        android:src="@drawable/background2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/background2" />
@@ -73,15 +73,13 @@
             android:id="@+id/editTextTextPaswword"
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:layout_marginTop="dp"
+
             android:background="@drawable/edit_text_backgroun"
             android:ems="10"
             android:hint="Enter Your Password"
             android:inputType="textPassword"
             android:padding="12dp"
-            android:textColor="#707070"
-            android:textSize="18dp" />
-
+            android:textColor="#707070" />
         <TextView
             android:id="@+id/textView6"
             android:layout_width="match_parent"
@@ -136,7 +134,7 @@
                         android:layout_height="31dp"
                         android:layout_marginHorizontal="2dp"
                         android:layout_weight="2"
-                        android:src="@tools:sample/avatars"
+                        android:src="@drawable/facebook"
                         app:srcCompat="@drawable/facebook" />
                 </LinearLayout>
 

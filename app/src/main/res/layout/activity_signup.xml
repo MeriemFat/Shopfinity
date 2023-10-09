@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleType="centerCrop"
-        android:src="@tools:sample/avatars"
+        android:src="@drawable/background2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/background2" />
@@ -136,7 +136,7 @@
             android:layout_height="59dp"
             android:layout_marginTop="20dp"
             android:background="#00350B"
-            android:text="Login"
+            android:text="Save"
             android:textColor="#ffff"
             android:textSize="22dp"
             android:textStyle="bold"/>

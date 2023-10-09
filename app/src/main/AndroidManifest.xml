@@ -13,12 +13,28 @@
         android:theme="@style/Theme.MyApplicationfin"
         tools:targetApi="31" >
         <activity
-            android:name="com.example.myapplicationfin.MainActivity"
+        android:name="com.example.myapplicationfin.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.myapplicationfin.activity_login"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name="com.example.myapplicationfin.activity_signup"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name="com.example.myapplicationfin.activity_profil"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name="com.example.myapplicationfin.activity_recover_password"
+            android:exported="false" >
         </activity>
     </application>
 
